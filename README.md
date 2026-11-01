@@ -29,8 +29,8 @@ This project documents an enterprise network infrastructure covering office area
 
 ## Documentation
 
-- [Project Portfolio PDF](documentation/enterprise-network-portfolio.pdf)
-- [Conceptual Network Topology](evp.png)
+- [Project Portfolio PDF](Enterprise_Network_Desc.pdf)
+- [Conceptual Network Topology](netopo.png)
 
 ## Evidence Limitations
 
